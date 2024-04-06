@@ -1,0 +1,2 @@
+44.99
+44.9       //invalid input to terminate the program
